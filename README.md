@@ -84,6 +84,6 @@ This project analyzes company financial data using Power BI. It focuses on **pro
 Developed by **Eric Abakah**
 GitHub: [@eabakah10](https://github.com/eabakah10)  
 LinkedIn: [linkedin.com/in/eric-abakah](https://www.linkedin.com/in/eric-abakah-11a6361a7)  
-Email: ehricabakah98@gmail.com
+Email: ehrickabakah98@gmail.com
 
 Please feel free to reach out for feedback or collaboration.
