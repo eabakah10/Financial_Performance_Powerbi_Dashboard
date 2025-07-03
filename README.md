@@ -71,6 +71,13 @@ This project analyzes company financial data using Power BI. It focuses on **pro
 
 ---
 
+## Dashboard Preview
+
+###  Financial Performance Overview
+![Sales Overview](Financial_dashboard.png)
+
+---
+
 ## 📬 Contact
 
 
